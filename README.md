@@ -1,10 +1,8 @@
 # V-SDN : Visualizer for Software Defined Network
 
-#### Marius Faust and Manjiri Birajdar, TU Darmstadt
+#### Manjiri Birajdar and Marius Faust, TU Darmstadt
 
-We present ”V-SDN”, an interactive web based application for visualizing the Software Defined Network (SDN). It includes a backend for processing the client requests based on python
-based web framework. Further as a frontend, a web interface based on HTML, CSS, JavaScript and capable of displaying network topology with additional node information. We also
-provide generic APIs to interact and build new visualizations.
+We present ”V-SDN”, an interactive web based application for visualizing the Software Defined Network (SDN). It includes a backend for processing the client requests based on python based web framework. Further as a frontend, a web interface based on HTML, CSS, JavaScript and capable of displaying network topology with additional node information. We also provide generic APIs to interact and build new visualizations.
 
 ## Getting Started
 
@@ -38,7 +36,7 @@ python -m venv venv
 
 ## Deployment
 
-Open command prompt and go to the folder path "aoc-4-lab-ws1920". Go inside the folder using cd
+Open command prompt and go to the project folder. Go inside the folder using cd
 
 Then run following commands to deply it on server (on windows):
 
