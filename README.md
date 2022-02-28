@@ -76,7 +76,5 @@ Then, now you can create the network you want! Example is given below.
 
 Run the "curl_commands.bat" file using. It contains curl commands to create a network.
 
-The detailed API documentation can be found here : https://docs.google.com/document/d/1HgtIsek_ZMdKP7jtpXRcej4tKfOS2QAHtjDv18b0_Zg/edit#heading=h.pev1tk7dc5pa
+For further details for APIs and curl commands refer [API documentation](https://github.com/ManjiriBirajdar/V-SDN-Visualizer-for-Software-Defined-Network/blob/main/docs/API_DOC%20_V-SDN.pdf).  
 
-
-Also, there some examples for using curl commands.
