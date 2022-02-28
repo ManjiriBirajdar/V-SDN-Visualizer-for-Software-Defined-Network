@@ -2,7 +2,13 @@
 
 #### Manjiri Birajdar and Marius Faust, TU Darmstadt
 
-We present ”V-SDN”, an interactive web based application for visualizing the Software Defined Network (SDN). It includes a backend for processing the client requests based on Flask - python based web framework which enables rapid development of REST API. Further as a frontend, a web interface based on HTML, CSS, JavaScript and [D3.js](https://d3js.org/). It is built on the [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph) example. The application is capable of displaying network topology with additional node information. We also provide generic REST APIs to interact and build new visualizations.
+We present ”V-SDN”, an interactive web based application for visualizing the Software Defined Network (SDN). 
+
+It includes a backend for processing the client requests based on Flask - a python based web framework including [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/) extension for quickly building REST APIs. 
+
+The frontend is built as a web interface based on HTML, CSS, JavaScript library [D3.js](https://d3js.org/). It is built on the [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph) example. 
+
+The application is capable of displaying network topology with additional node information. We also provide generic REST APIs to interact and build new visualizations.
 
 ## Getting Started
 
