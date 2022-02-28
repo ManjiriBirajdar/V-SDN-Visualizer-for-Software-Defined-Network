@@ -1,0 +1,2 @@
+# V-SDN-Visualizer-for-Software-Defined-Network
+”V-SDN”, an interactive web based application for visualizing the Software Defined Network (SDN). It includes a backend for processing the client requests based on python based web framework. Further as a frontend, a web interface based on HTML, CSS, JavaScript and capable of displaying network topology with additional node information. We also provide generic APIs to interact and build new visualizations.
